@@ -49,3 +49,6 @@ Assets and dependencies should be included or linked as necessary.
 
 ## License
 This project is open source and available under the MIT License.
+
+<img src="game.png" alt="Top Down Tank Shooter" width="600"/>
+
